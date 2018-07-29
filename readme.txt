@@ -1,2 +1,2 @@
 git is a distributed version sysytem
-gite is a softeware
+gite is a softeware under the GPL
