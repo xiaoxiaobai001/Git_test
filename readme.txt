@@ -1,2 +1,3 @@
 git is a distributed version sysytem
-gite is a softeware under the GPL
+git is a softeware under the GPL
+git has mutable index called stage
